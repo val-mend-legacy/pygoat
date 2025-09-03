@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "val-mend-legacy/whitesource-config@main"
+  "settingsInheritedFrom": "val-mend-legacy/whitesource-config@main", 
+"scanSettings": {
+    "enableReachability": true
+  }
 }
